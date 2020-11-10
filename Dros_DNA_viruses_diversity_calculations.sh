@@ -983,7 +983,7 @@ do
 		no_samples=$( cat Vesanto.virus.remapping.$seg/$virusstem.mpileup.25.bam.list.txt | wc -l )
 		
 		#saving a tsv file in order to plot the no. of samples which each SNP is found in 
-		cat Vesanto.virus.remapping.$seg/$virusstem.combined.per.sample.maf1.nucl.div.tsv | sort -n -k 3,3 | cut -f 3 | sort -n | uniq -c | sort -n -k 1,1 >> $Vesanto.virus.remapping.$seg/$virusstem.per.sample.snp.frequencies.tsv
+		cat Vesanto.virus.remapping.$seg/$virusstem.combined.per.sample.maf1.nucl.div.tsv | sort -n -k 3,3 | cut -f 3 | sort -n | uniq -c | sort -n -k 1,1 >> Vesanto.virus.remapping.$seg/$virusstem.per.sample.snp.frequencies.tsv
 		
 		#printing stats for each virus
 		echo there are $total_SNPs_across_samples SNPs across all the per sample bam files for $virusstem virus , $unique_SNPs_across_samples of which are from unique positions. $single_sample_SNPs are from only one sample, $two_sample_SNPs are from two samples, and $more_than_two_sample_SNPs appear in more than two samples
