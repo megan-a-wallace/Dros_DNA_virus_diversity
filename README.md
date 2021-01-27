@@ -9,3 +9,5 @@ The pre-processing script takes the two included fasta files (TIR and non-TIR) a
 After running the pre-processing script, run the diversity calculations shell script to calculate piA, piS and intergenic pi for both local samples and total populations.
 
 The combined Kallithea virus diversity script uses some of these output files to create a figure showing total piS and intergenic pi across the Kallithea virus genome, and the distribution of indel incidence across the virus genome. 
+
+The INLA model code takes the input file with relative mapped reads for each virus, and builds models of spatial and temporal variation in prevalence, with relevant plots of the model output and spatial fields
