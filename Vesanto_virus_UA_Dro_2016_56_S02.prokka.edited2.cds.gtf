@@ -1,0 +1,5 @@
+Vesanto_virus_UA_Dro_2016_56_S02	BLASTp	CDS	3	815	.	+	0	gene_id "hypothetical protein 3";
+Vesanto_virus_UA_Dro_2016_56_S02	BLASTp	CDS	782	2167	.	+	0	gene_id "putative NS1 protein";
+Vesanto_virus_UA_Dro_2016_56_S02	BLASTp	CDS	2216	2863	.	-	0	gene_id "putative coat protein";
+Vesanto_virus_UA_Dro_2016_56_S02	BLASTp	CDS	163	1392	.	-	0	gene_id "hypothetical protein 1";
+Vesanto_virus_UA_Dro_2016_56_S02	BLASTp	CDS	3207	3830	.	-	0	gene_id "hypothetical protein 2";

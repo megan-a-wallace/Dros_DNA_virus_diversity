@@ -1,0 +1,3 @@
+Vesanto_virus_UA_Dro_2016_56_S01	BLASTp	CDS	23	1300	.	+	0	gene_id "putative capsid protein";
+Vesanto_virus_UA_Dro_2016_56_S01	BLASTp	CDS	1303	4554	.	-	0	gene_id "DNA polymerase B";
+Vesanto_virus_UA_Dro_2016_56_S01	BLASTp	CDS	5	667	.	-	0	gene_id "hypothetical protein";

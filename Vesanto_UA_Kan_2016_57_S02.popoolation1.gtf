@@ -1,0 +1,5 @@
+Vesanto_virus_UA_Kan_2016_57_S02	BLASTp	CDS	3	815	.	+	0	ID=hypothetical_protein_3;
+Vesanto_virus_UA_Kan_2016_57_S02	BLASTp	CDS	782	2155	.	+	0	ID=putative_NS1_protein;
+Vesanto_virus_UA_Kan_2016_57_S02	BLASTp	CDS	2216	2863	.	-	0	ID=putative_coat_protein;
+Vesanto_virus_UA_Kan_2016_57_S02	BLASTp	CDS	163	1392	.	-	0	ID=hypothetical_protein_1;
+Vesanto_virus_UA_Kan_2016_57_S02	BLASTp	CDS	3207	3830	.	-	0	ID=hypothetical_protein_2;
