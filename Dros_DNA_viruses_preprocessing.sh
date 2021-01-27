@@ -8,7 +8,7 @@
 ##Also needs to be a fasta file containing the reference genomes for the viruses of interest in the folder
 ##and a second fasta file with the non-TIR sequences, must have same ids as the viruses in the first fasta
 ##input = .fasta file containing the viruses and segments of viruses you want to assess data coverage for and prep fastq files for analysis
-#run as ./Dros_DNA_viruses_preprocessing.sh DrosEU_DNA_viruses_franalysis.fasta DrosEU_DNA_viruses_franalysis_nonTIR.fasta
+#run as ./Dros_DNA_viruses_preprocessing.sh virusgenomes.fasta virusgenomes_nonTIR.fasta
 
 ##Taking the .fasta of virus genomes
 virusfasta="$1"
