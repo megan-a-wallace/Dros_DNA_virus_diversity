@@ -4,7 +4,7 @@ A collection of scripts to analyse Drosophila DNA viruses, found in the collecti
 
 Scripts should be run in the same folder as competitively mapped bam files against Drosophila viruses and contaminants, with the pre-processing script run first. 
 
-The pre-processing script takes the two included fasta files (virusgenomes.fasta & virusgenomes_noTIRs.fasta) as input, and generates all further files needed for the analyses (excluding virus genome gtf and gff files)
+The pre-processing script takes the two included fasta files (virusgenomes.fasta & virusgenomes_nonTIRs.fasta) as input, and generates all further files needed for the analyses (excluding virus genome gtf and gff files)
 
 After running the pre-processing script, run the diversity calculations shell script to calculate piA, piS and intergenic pi for both local samples and total populations.
 
